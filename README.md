@@ -1,5 +1,5 @@
 # Heart Failure Prediction
-Problem Statement - Predict mortality by heart failure
+Problem Statement - Predict mortality by heart failure (Classification)
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management for which a dataset will be used to predict who are at high risk.
 
@@ -34,7 +34,7 @@ serum_sodium | Level of serum sodium in the blood (mEq/L)
 sex | Woman or man (binary)
 smoking | If the patient smokes or not (boolean)
 time | Follow-up period (days)
-DEATH_EVENT | If the patient deceased during the follow-up period (boolean)
+DEATH_EVENT | If the patient deceased during the follow-up period (boolean) - Target variable
 
 # Credit to Authors
 Citation
