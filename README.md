@@ -13,6 +13,8 @@ Heart failure is a common event caused by CVDs and this dataset contains 12 feat
 
 Most cardiovascular diseases can be prevented by addressing behavioural risk factors such as tobacco use, unhealthy diet and obesity, physical inactivity and harmful use of alcohol using population-wide strategies.
 
+Data Source - https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+
 # Data Dictionary
 
 
