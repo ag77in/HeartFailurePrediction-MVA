@@ -1,5 +1,5 @@
 # Heart Failure Prediction
-Predict mortality by heart failure
+Problem Statement - Predict mortality by heart failure
 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management for which a dataset will be used to predict who are at high risk.
 
@@ -16,8 +16,8 @@ Most cardiovascular diseases can be prevented by addressing behavioural risk fac
 Data Source - https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 # Data Dimension
-300 rows or patient detais
-13 columns or features (behavioral)
+* 300 rows or patient detais
+* 13 columns or features (behavioral)
 
 # Data Dictionary
 Variable | Definition
