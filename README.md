@@ -16,7 +16,7 @@ Most cardiovascular diseases can be prevented by addressing behavioural risk fac
 Data Source - https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 # Data Dimension
-* 300 rows or patient detais
+* 300 rows or patient details
 * 13 columns or features (behavioral)
 
 # Data Dictionary
