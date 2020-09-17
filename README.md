@@ -1,6 +1,3 @@
-# MVA 
-26:630:670 - Multivariate Analysis Fall 2020
-
 # Heart Failure Prediction
 Predict mortality by heart failure
 
@@ -31,3 +28,6 @@ Icon by Freepik, available on Flaticon.
 
 Splash banner
 Wallpaper by jcomp, available on Freepik.
+
+# MVA Course details
+26:630:670 - Multivariate Analysis Fall 2020
