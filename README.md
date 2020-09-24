@@ -52,5 +52,5 @@ Wallpaper by jcomp, available on Freepik.
 # MVA Course details
 26:630:670 - Multivariate Analysis Fall 2020
 
-# SPAP Updated 
+# Updated SPAP Below -
 ![alt text](https://github.com/ag77in/HeartFailurePrediction-MVA/blob/master/SPAP_Updated_Assignment_2.png?raw=true)
